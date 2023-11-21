@@ -1,0 +1,4 @@
+﻿  t1.2.cpp
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l3\lab3\t1.2\t1.2.cpp(107,72): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l3\lab3\t1.2\t1.2.cpp(108,19): warning C4101: 'numOfEdges': unreferenced local variable
+  t1.2.vcxproj -> D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l3\lab3\x64\Debug\t1.2.exe

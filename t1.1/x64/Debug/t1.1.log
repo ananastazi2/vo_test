@@ -1,0 +1,3 @@
+﻿  t1.1.cpp
+D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l3\lab3\t1.1\t1.1.cpp(107,72): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  t1.1.vcxproj -> D:\Енестейшен\Навчання\Універ\3point\1sem\ВО\l3\lab3\x64\Debug\t1.1.exe
